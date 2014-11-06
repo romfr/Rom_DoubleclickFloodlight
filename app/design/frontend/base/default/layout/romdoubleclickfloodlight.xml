@@ -14,7 +14,9 @@
             <block
                 type="romdoubleclickfloodlight/checkout_onepage_success"
                 name="romdoubleclickfloodlight.checkout.onepage.success">
-                <action method="setTemplate" ifconfig="romdoubleclickfloodlight/general/active"><template>romdoubleclickfloodlight/checkout/onepage/success.phtml</template></action>
+                <action method="setTemplate" ifconfig="romdoubleclickfloodlight/general/active">
+                    <template>romdoubleclickfloodlight/checkout/onepage/success.phtml</template>
+                </action>
             </block>
         </reference>
     </checkout_onepage_success>

@@ -17,7 +17,7 @@
     <global>
         <blocks>
             <romdoubleclickfloodlight>
-                <class>Rom_DoubleclickFloodlight_Block<class>
+                <class>Rom_DoubleclickFloodlight_Block</class>
             </romdoubleclickfloodlight>
         </blocks>
         <helpers>
