@@ -1,0 +1,14 @@
+{
+  "name": "rom/doubleclick-floodlight",
+  "license": ["OSL-3.0"],
+  "type": "magento-module",
+  "description": "This extension tracks sells for Doubleclick Floodlight",
+  "homepage": "https://github.com/borriglione/Rom_DoubleclickFloodlight",
+  "authors":[{
+    "name": "André Herrn",
+    "email": "andre.herrn@rom.fr"
+  }],
+  "require": {
+    "magento-hackathon/magento-composer-installer": "*"
+  }
+}
