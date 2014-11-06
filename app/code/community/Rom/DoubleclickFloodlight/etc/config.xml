@@ -26,4 +26,13 @@
             </romdoubleclickfloodlight>
         </helpers>
     </global>
+    <frontend>
+        <layout>
+            <updates>
+                <romdoubleclickfloodlight>
+                    <file>romdoubleclickfloodlight.xml</file>
+                </romdoubleclickfloodlight>
+            </updates>
+        </layout>
+    </frontend>
 </config>

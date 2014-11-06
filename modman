@@ -1,2 +1,6 @@
 app/etc/modules/Rom_DoubleclickFloodlight.xml app/etc/modules/Rom_DoubleclickFloodlight.xml
+
 app/code/community/Rom/DoubleclickFloodlight app/code/community/Rom/DoubleclickFloodlight
+
+app/design/frontend/base/default/layout/romdoubleclickfloodlight.xml app/design/frontend/base/default/layout/romdoubleclickfloodlight.xml
+app/design/frontend/base/default/template/romdoubleclickfloodlight app/design/frontend/base/default/template/romdoubleclickfloodlight
