@@ -6,7 +6,7 @@
 Début du tag DoubleClick Floodlight : Veillez à ne pas supprimer
 -->
 <iframe
-    src="https://<?php echo Mage::getStoreConfig('romdoubleclickfloodlight/general/id');?>.fls.doubleclick.net/activityi;src=<?php echo Mage::getStoreConfig('romdoubleclickfloodlight/general/id');?>;type=vente0;cat=bsvco0;qty=1;cost=<?php echo round($order->getGrandTotal(), 2); ?>;ord=<?php echo round($order->getIncrementId(), 2); ?>?"
+    src="https://<?php echo Mage::getStoreConfig('romdoubleclickfloodlight/general/id');?>.fls.doubleclick.net/activityi;src=<?php echo Mage::getStoreConfig('romdoubleclickfloodlight/general/id');?>;type=vente0;cat=<?php echo Mage::getStoreConfig('romdoubleclickfloodlight/general/cat');?>;qty=1;cost=<?php echo round($order->getGrandTotal(), 2); ?>;ord=<?php echo round($order->getIncrementId(), 2); ?>?"
     width="1"
     height="1"
     frameborder="0"
